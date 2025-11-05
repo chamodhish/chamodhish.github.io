@@ -1,1 +1,15 @@
+div#monBloc h1{color: yellowgreen;}
+div#monAutreBloc h1{color: yellowgreen;}
+div#monAutreBlocc h1{color: yellowgreen;}
+div#monAutreBloccc a{color: white;} 
 
+p, h2, ul, li {
+  color: white;
+  text-align: center;
+}
+body {
+  background-image: url("https://www.ober-surfaces.com/cache/images/product/34173cb38f07f89ddbebc2ac9128303f-1244-oberflex_purepapercolor_skin_darkblue020_detail.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; 
+}
